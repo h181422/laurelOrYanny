@@ -1,7 +1,7 @@
 % Leser inn en fil og kutter ut delen hvor det sies "laurel" eller "yanny".
 % Bruker så lavpass filter for å se om det kommer tydligere frem at det
 % sies laurel, siden yanny trolig vil ha en høyere frekvens.
-
+% Gjennomført som en gøy vri på eksamenslesing
 
 % les wav fil inn i orginal_stereo matrise
 %------------------------------------------
